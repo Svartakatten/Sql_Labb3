@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql_Labb3", "Sql_Labb3.csproj", "{ACF700A3-A101-4B57-A9F5-715895A95E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF700A3-A101-4B57-A9F5-715895A95E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF700A3-A101-4B57-A9F5-715895A95E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF700A3-A101-4B57-A9F5-715895A95E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF700A3-A101-4B57-A9F5-715895A95E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8123632-28B6-4D8F-905E-6CF433DF91C3}
+	EndGlobalSection
+EndGlobal
